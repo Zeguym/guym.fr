@@ -36,19 +36,19 @@ Par défaut GitVersion suit la stratégie de Gitflow
 - **Installation** :
 
 installation locale :
-```powershell
+```dotnetcli
 dotnet tool install --global GitVersion.Tool
 ```
 
 Installation au niveau de la solution dotnet
-```powershell
+```dotnetcli
 dotnet new tool-manifest
 dotnet tool install GitVersion.Tool
 ```
 
 - **Afficher la version de la branche en cours** :
 
-```powershell
+```dotnetcli
 dotnet gitversion
 ```
 
@@ -72,7 +72,7 @@ Pour plus de details [la doc officielle](https://gitversion.net/docs/reference/c
 
 - **Ajout du package**  
   Ajoutez le package NuGet à votre projet ou solution :
-```powershell
+```dotnetcli
 dotnet add package GitVersion.MsBuild
 ```
 - **Détection automatique**  
