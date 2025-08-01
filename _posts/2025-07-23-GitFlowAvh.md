@@ -290,16 +290,81 @@ config:
          commit id:"         "
 ```
 
-## Bonnes pratiques
+# Bonnes pratiques
 
 - Utilisez des noms explicites pour vos branches.
 - Fusionnez régulièrement pour limiter les conflits.
 - Utilisez les Pull Requests pour la revue de code.
 - Documentez les releases et hotfixes dans vos messages de commit.
 
-## Ressources
+# Ressources
 
 - [Documentation officielle Git Flow AVH](https://github.com/petervanderdoes/gitflow-avh)
 - [Cheat Sheet Git Flow (EN)](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Cheat Sheet Git Flow Avh (EN)](https://git.logikum.hu/flow)
 
+# Bonus
+
+Un squelete de script à addapeter powershell pour renommer les branches distantes d'un repo existant au format gitflow (a faire qu'une fois)
+
+1. renomer les branche distantes :
+```powershell
+clear
+cd C:\Sources\
+$allBranches =  git branch -r
+
+foreach($branchstr in $allBranches) 
+{
+    $branch = $branchstr.substring(2)
+     if(
+         ($branch -ne "origin/master") -and 
+         ($branch -ne "origin/main") -and 
+         ($branch -ne "origin/develop") -and 
+         (-not $branch.StartsWith("origin/HEAD")) -and
+          (-not $branch.StartsWith("origin/feature/")) -and
+          (-not $branch.StartsWith("origin/release/")) -and
+          (-not $branch.StartsWith("origin/hotfix/")) 
+        ) 
+    {
+       $new= $branch.Replace("origin/","feature/")
+       $name=$branch.Replace("origin/","")
+       echo $new
+      Invoke-Expression "git push origin $($branch):refs/heads/$new :$name"
+
+    }
+
+ 
+}
+```
+
+2. renomer les branches locales et les rattacher aux branche renonmée (pour chaque devs) :
+```powershell
+
+clear
+cd C:\Sources
+$allBranches =  git branch 
+
+foreach($branchstr in $allBranches) 
+{
+    $branch = $branchstr.substring(2)
+     if(
+         ($branch -ne "master") -and 
+         ($branch -ne "main") -and 
+         ($branch -ne "develop") -and 
+
+          (-not $branch.StartsWith("feature/")) -and
+          (-not $branch.StartsWith("release/")) -and
+          (-not $branch.StartsWith("hotfix/")) 
+        ) 
+    {
+       $new= $branch.Replace("origin/","feature/")
+       $name=$branch.Replace("origin/","")
+       echo $branch
+
+       git branch -m $branch feature/$branch
+       git branch -u origin/feature/$branch feature/$branch 
+    }
+
+ 
+}
+```
