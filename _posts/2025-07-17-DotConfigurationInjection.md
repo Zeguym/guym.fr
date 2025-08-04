@@ -44,7 +44,7 @@ public void ConfigureServices(IServiceCollection services)
 ````
 
 > [!TIP]  
-> La méthode d'extention `Configure<T>(this IServiceCollection services, IConfiguration config)` se trouve dans Microsoft.Extensions.DependencyInjection. IL faut l'ajouter via les Nugets.
+> La méthode d'extention `Configure<T>(this IServiceCollection services, IConfiguration config)` se trouve dans `Microsoft.Extensions.Options.ConfigurationExtensions`. IL faut l'ajouter via les Nugets.
 
 
 **Injection dans un service**
