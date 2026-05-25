@@ -1,5 +1,6 @@
 ---
 title: Git Flow & Git Flow AVH
+description: "Git Flow expliqué : branches principales et de support, cycle de vie d’une release, puis installation et commandes de l’extension Git Flow AVH."
 tags: git gitflow 
 ---
 

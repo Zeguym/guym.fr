@@ -1,5 +1,6 @@
 ---
 title: OpenTelemetry
+description: "OpenTelemetry en .NET : traces, métriques et logs, instrumentation d’ASP.NET Core, spans et métriques personnalisés, export via le protocole OTLP."
 tags: dotnet opentelemetry
 ---
 

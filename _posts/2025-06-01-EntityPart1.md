@@ -1,5 +1,6 @@
 ---
 title: Comprendre la "magie" derrière Entity Framework (EF Core)
+description: "EF Core décrypté : expressions lambda, arbres d’expression, différence entre IQueryable et IEnumerable et matérialisation des requêtes LINQ en SQL."
 tags: dotnet efcore 
 series: "Entity Framework"
 ---

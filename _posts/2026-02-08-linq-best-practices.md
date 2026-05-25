@@ -1,5 +1,6 @@
 ---
 title: "LINQ : bonnes pratiques et pièges à éviter"
+description: "LINQ : bonnes pratiques et pièges courants, Any plutôt que Count, énumérations multiples, allocations cachées, projections et requêtes EF Core efficaces."
 tags: dotnet basics linq csharp bonnes-pratiques
 series: "Linq"
 ---

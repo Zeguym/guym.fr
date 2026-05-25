@@ -1,5 +1,6 @@
 ---
 title: "Cibler plusieurs frameworks .NET dans un même projet"
+description: "Multi-ciblage .NET : cibler plusieurs frameworks dans un seul .csproj, références et code conditionnels par TFM, puis publier un package NuGet multi-target."
 tags: dotnet nuget multi-targeting multi-framework
 ---
 

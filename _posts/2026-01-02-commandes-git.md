@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Commandes Git avancées (et méconnues)"
+description: "Commandes Git avancées : worktree, rerere, fixup et autosquash, bisect, reflog, range-diff, add -p et d’autres outils méconnus pour gagner du temps."
 tags: git
 ---
 

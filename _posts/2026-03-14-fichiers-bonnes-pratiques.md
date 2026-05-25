@@ -1,5 +1,6 @@
 ---
 title: "Bonnes pratiques avec les fichiers en .NET"
+description: "Fichiers en .NET : Path.Combine et Path.Join, lecture et écriture par flux, fichiers temporaires, encodage, path traversal et FileSystemWatcher sans piège."
 tags: dotnet fichiers io bonnes-pratiques
 ---
 

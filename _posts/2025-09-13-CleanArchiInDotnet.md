@@ -1,5 +1,6 @@
 ---
 title: Clean Architecture en .NET
+description: "Clean Architecture en .NET : couches concentriques, inversion de dépendance vers le domaine, exemple d’implémentation détaillé et bonnes pratiques."
 tags: dotnet clean-architecture 
 ---
 

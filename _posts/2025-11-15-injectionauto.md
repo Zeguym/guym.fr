@@ -1,5 +1,6 @@
 ---
 title: Injection automatique de dépendances en .NET (IoC 3/3)
+description: "Enregistrement automatique des services en .NET : scanner une assembly par réflexion ou générer le code avec un Source Generator pour le conteneur DI."
 tags: dotnet ioc source-generator injection-dependance
 series: "IoC et DI en .NET"
 ---

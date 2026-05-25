@@ -1,5 +1,6 @@
 ---
 title: "Dapr : invocation de service gRPC en .NET"
+description: "Dapr et gRPC en .NET : contrat Protobuf, service et client gRPC invoqués via le sidecar Dapr, GrpcClientFactory, test avec le CLI Dapr et .NET Aspire."
 tags: dotnet dapr microservices grpc service-invocation
 series: "Dapr pour les développeurs .NET"
 ---

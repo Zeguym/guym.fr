@@ -1,5 +1,6 @@
 ---
 title: Bonnes pratiques pour les requêtes (EF Core)
+description: "Requêtes EF Core performantes : filtrage côté serveur, projections Select, pagination, chargement des relations, problème N+1, AsNoTracking et méthodes async."
 tags: dotnet efcore clean-queries 
 series: "Entity Framework"
 ---

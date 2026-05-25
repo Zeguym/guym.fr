@@ -1,5 +1,6 @@
 ---
 title: "Span&lt;T&gt; et Memory&lt;T&gt; : réduire les allocations"
+description: "Span<T> et Memory<T> en C# : manipuler des portions de mémoire sans copier ni allouer, slicing, stackalloc et contraintes des ref struct pour soulager le GC."
 tags: dotnet basics performance memory span csharp
 ---
 

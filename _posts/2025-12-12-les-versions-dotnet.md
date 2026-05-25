@@ -1,5 +1,6 @@
 ---
 title: "Les différentes versions de .NET : Framework, Core, Standard, et le .NET unifié"
+description: ".NET Framework, .NET Core, .NET Standard et .NET unifié : différences, versions clés, API disponibles et lequel choisir selon votre projet."
 tags: dotnet dotnet-core dotnet-framework dotnet-standard
 ---
 Comment s'y retrouver dans les différentes versions de .NET : 

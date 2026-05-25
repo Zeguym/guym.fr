@@ -1,5 +1,6 @@
 ---
 title: Tests d'architecture en .NET
+description: "Tests d’architecture en .NET avec NetArchTest et ArchUnitNET : vérifier dépendances entre couches, conventions de nommage, namespaces et cycles."
 tags: dotnet test architecture 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Git Version
+description: "GitVersion calcule automatiquement un numéro SemVer depuis l’historique Git : fonctionnement, configuration GitVersion.yml et intégration GitHub Actions."
 tags: dotnet dotnettools nuget 
 ---
 

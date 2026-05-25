@@ -1,5 +1,6 @@
 ---
 title: Injection de configuration en .NET
+description: "Configuration .NET : lier appsettings.json à des classes typées avec IOptions, IOptionsSnapshot et IOptionsMonitor, valider les options et recharger à chaud."
 tags: injection dotnet configuration options
 ---
 

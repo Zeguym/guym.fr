@@ -1,5 +1,6 @@
 ---
 title: Inversion de contrôle et injection de dépendance pour une assembly (IoC 2/3)
+description: "Injection de dépendances dans une bibliothèque .NET : exposer une méthode d’extension IServiceCollection pour enregistrer les services d’une DLL, avec options."
 tags: dotnet ioc dll injection-dependance
 series: "IoC et DI en .NET"
 ---

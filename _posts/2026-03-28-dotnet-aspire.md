@@ -1,5 +1,6 @@
 ---
 title: ".NET Aspire : orchestrer et observer une app distribuée"
+description: "Aspire 13.2 : décrire en C# une app distribuée avec API, worker, Redis et PostgreSQL, WithReference, WaitFor, service discovery et observabilité OpenTelemetry."
 tags: dotnet aspire microservices opentelemetry architecture
 ---
 

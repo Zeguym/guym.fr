@@ -1,5 +1,6 @@
 ---
 title: Dotnet tools installer des outils par projets
+description: "Outils .NET par projet : modes global, local et tool-path, manifeste dotnet-tools.json, restauration automatique et exécution sans installation avec dnx."
 tags: dotnet dotnettools 
 ---
 

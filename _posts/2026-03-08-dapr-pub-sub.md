@@ -1,5 +1,6 @@
 ---
 title: "Dapr : le Pub/Sub (Publish & Subscribe) en .NET"
+description: "Dapr Pub/Sub en .NET : publier et souscrire avec DaprClient et [Topic] sur RabbitMQ, Kafka ou Service Bus, idempotence, dead letters et routage par règles."
 tags: dotnet dapr microservices pub-sub messaging
 series: "Dapr pour les développeurs .NET"
 ---

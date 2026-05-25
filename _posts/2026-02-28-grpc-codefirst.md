@@ -1,5 +1,6 @@
 ---
 title: "gRPC Code-First en .NET : se passer des fichiers .proto"
+description: "gRPC Code-First en .NET avec protobuf-net.Grpc : définir contrats et messages en C# sans fichier .proto, streaming inclus, et choisir face au Contract-First."
 tags: dotnet grpc code-first protobuf-net api
 series: "gRPC"
 ---

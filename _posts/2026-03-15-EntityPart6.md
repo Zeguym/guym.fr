@@ -1,5 +1,6 @@
 ---
 title: Optimiser les performances (EF Core)
+description: "EF Core : accélérer les requêtes avec les compiled queries, mettre en cache avec IMemoryCache et réduire le coût des contextes grâce au DbContext pooling."
 tags: dotnet efcore performance compiled-query cache dbcontext-pool
 series: "Entity Framework"
 ---

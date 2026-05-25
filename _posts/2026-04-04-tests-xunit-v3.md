@@ -1,5 +1,6 @@
 ---
 title: "xUnit v3 : organiser ses tests"
+description: "xUnit v3 : Fact, Theory et TheoryData, conventions de nommage, fixtures de classe, de collection et d'assembly, TestContext et Microsoft.Testing.Platform."
 tags: dotnet test xunit bonnes-pratiques
 ---
 

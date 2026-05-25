@@ -1,5 +1,6 @@
 ---
 title: Le Database Context (EF Core)
+description: "DbContext d’EF Core : pourquoi il n’est pas thread-safe, quel cycle de vie choisir à l’injection (Scoped, Transient) et quand utiliser DbContextFactory."
 tags: dotnet efcore DbContext 
 series: "Entity Framework"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Source Generators en .NET (Code Gen)"
+description: "Source Generators .NET : générer du code C# à la compilation avec Roslyn, créer un générateur incrémental, exemple de mapper et bonnes pratiques."
 tags: dotnet roslyn source-generators performance outillage
 series: "Source Generators en .NET"
 ---

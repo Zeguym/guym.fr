@@ -1,5 +1,6 @@
 ---
 title: L’inversion de contrôle et injection de dépendance en dotnet (IoC 1/3)
+description: "Inversion de contrôle et injection de dépendances en .NET : principe IoC, conteneur natif, types d’injection, injection par attribut et services à clé."
 tags: dotnet ioc injection-dependance
 series: "IoC et DI en .NET"
 ---

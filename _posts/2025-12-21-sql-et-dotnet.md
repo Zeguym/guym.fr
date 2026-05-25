@@ -1,5 +1,6 @@
 ---
 title: "Dotnet et SQL : bonnes pratiques pour éviter les erreurs courantes"
+description: "SQL en .NET : éviter le N+1, paginer, paramétrer les requêtes, utiliser AsNoTracking, l’async et les transactions avec EF Core, Dapper ou ADO.NET."
 tags: dotnet sql bonnes-pratiques
 ---
 Voici une liste de bonnes pratiques pour éviter les erreurs courantes lors de l’utilisation de SQL dans une application .NET (que ce soit avec Entity Framework Core, Dapper ou ADO.NET).

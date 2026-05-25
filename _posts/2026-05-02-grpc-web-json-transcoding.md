@@ -1,5 +1,6 @@
 ---
 title: "gRPC-Web et JSON transcoding : ouvrir gRPC aux navigateurs"
+description: "gRPC-Web et JSON transcoding en ASP.NET Core : appeler un service gRPC depuis JavaScript ou Blazor WebAssembly, ou l'exposer en API REST avec OpenAPI."
 tags: dotnet grpc http rest api
 series: "gRPC"
 ---

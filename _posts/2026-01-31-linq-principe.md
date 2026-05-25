@@ -1,5 +1,6 @@
 ---
 title: "LINQ en C# : principes et fonctionnement"
+description: "LINQ en C# : syntaxe de requête et de méthodes, lambdas, méthodes d’extension, IEnumerable vs IQueryable et exécution différée expliqués simplement."
 tags: dotnet basics linq csharp
 series: "Linq"
 ---

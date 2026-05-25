@@ -1,5 +1,6 @@
 ---
 title: "gRPC : le streaming (server, client et bidirectionnel)"
+description: "gRPC streaming en .NET : server, client et bidirectionnel sur HTTP/2, du fichier .proto au client, avec annulation, flux longs et comparaison avec SSE."
 tags: dotnet grpc http api performance
 series: "gRPC"
 ---

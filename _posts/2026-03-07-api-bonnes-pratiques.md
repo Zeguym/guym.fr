@@ -1,5 +1,6 @@
 ---
 title: "Bonnes pratiques pour développer une API .NET"
+description: "API ASP.NET Core : routes REST, versioning, validation, ProblemDetails, JWT, rate limiting, OpenTelemetry et caching, les bonnes pratiques pour la production."
 tags: dotnet api rest architecture bonnes-pratiques
 ---
 

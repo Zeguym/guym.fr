@@ -1,5 +1,6 @@
 ---
 title: "Dapr : l'invocation de service en .NET"
+description: "Dapr Service Invocation en .NET : appeler un service par son app-id avec DaprClient, HttpClient ou IHttpClientFactory, avec retry, mTLS et gestion des erreurs."
 tags: dotnet dapr microservices service-invocation
 series: "Dapr pour les développeurs .NET"
 ---

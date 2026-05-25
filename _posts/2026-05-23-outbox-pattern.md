@@ -1,5 +1,6 @@
 ---
 title: "Le pattern Outbox : publier des événements sans les perdre"
+description: "Pattern Outbox en .NET avec EF Core : résoudre le dual write en publiant les événements depuis la base, relais multi-instances, Debezium, MassTransit et Dapr."
 tags: dotnet architecture microservices messaging efcore cqrs
 ---
 

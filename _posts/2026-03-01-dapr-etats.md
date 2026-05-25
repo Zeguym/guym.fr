@@ -1,5 +1,6 @@
 ---
 title: "Dapr : la gestion d'état (State Management) en .NET"
+description: "Dapr State Management en .NET : API clé/valeur avec Redis, PostgreSQL ou Cosmos DB, CRUD, concurrence optimiste par ETag, opérations groupées et transactions."
 tags: dotnet dapr microservices state-management
 series: "Dapr pour les développeurs .NET"
 ---

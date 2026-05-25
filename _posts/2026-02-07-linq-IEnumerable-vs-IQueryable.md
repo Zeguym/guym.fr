@@ -1,5 +1,6 @@
 ---
 title: "IEnumerable&lt;T&gt; vs IQueryable&lt;T&gt; : deux mondes, un même LINQ"
+description: "IEnumerable vs IQueryable en C# : exécution en mémoire ou traduction SQL, Func vs Expression, AsEnumerable, composition dynamique et pièges avec EF Core."
 tags: dotnet basics linq csharp ienumerable iqueryable
 series: "Linq"
 ---

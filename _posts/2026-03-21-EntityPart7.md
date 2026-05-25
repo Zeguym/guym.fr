@@ -1,5 +1,6 @@
 ---
 title: Mesurer et diagnostiquer les performances (EF Core)
+description: "EF Core : diagnostiquer les performances avec le logging, TagWithCallSite, les correlation IDs et OpenTelemetry pour repérer les vrais goulots d'étranglement."
 tags: dotnet efcore performance observability logging opentelemetry
 series: "Entity Framework"
 ---

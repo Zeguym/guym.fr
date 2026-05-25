@@ -1,5 +1,6 @@
 ---
 title: Principes SOLID en .NET
+description: "Principes SOLID en .NET : responsabilité unique, ouvert/fermé, substitution de Liskov, ségrégation des interfaces et inversion des dépendances en C#."
 tags: solid architecture 
 ---
 

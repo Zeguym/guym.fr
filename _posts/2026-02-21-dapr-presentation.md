@@ -1,5 +1,6 @@
 ---
 title: "Présentation de Dapr : le runtime pour applications distribuées"
+description: "Dapr pour .NET : modèle sidecar, invocation de services, gestion d’état, pub/sub, bindings, secrets et acteurs, puis premier service ASP.NET Core."
 tags: dotnet dapr microservices architecture
 series: "Dapr pour les développeurs .NET"
 ---

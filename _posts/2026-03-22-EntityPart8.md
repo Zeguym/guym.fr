@@ -1,5 +1,6 @@
 ---
 title: AsSplitQuery — maîtriser le chargement de plusieurs relations (EF Core)
+description: "EF Core AsSplitQuery : éviter l'explosion cartésienne en chargeant plusieurs collections, avec ses limites : cohérence, allers-retours réseau et SQL généré."
 tags: dotnet efcore performance split-query
 series: "Entity Framework"
 ---

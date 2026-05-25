@@ -1,5 +1,6 @@
 ---
 title: "Tests d'intégration : WebApplicationFactory + Testcontainers"
+description: "Tests d'intégration ASP.NET Core avec WebApplicationFactory, Testcontainers et PostgreSQL dans Docker, Respawn pour réinitialiser la base entre chaque test."
 tags: dotnet test xunit testcontainers api efcore docker
 ---
 

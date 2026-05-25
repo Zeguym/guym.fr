@@ -1,5 +1,6 @@
 ---
 title: "Le Garbage Collector .NET"
+description: "Garbage Collector .NET : générations, LOH et POH, modes Workstation, Server et DATAS, background GC, configuration et diagnostic avec dotnet-counters et gcdump."
 tags: dotnet basics performance memory garbage-collector heap
 ---
 

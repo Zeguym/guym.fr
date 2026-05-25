@@ -1,5 +1,6 @@
 ---
 title: Le Change Tracker (EF Core)
+description: "Change Tracker d’EF Core : suivi de l’état des entités, AsNoTracking, pièges d’ExecuteUpdate et ExecuteDelete, impact du cycle de vie du DbContext."
 tags: dotnet efcore DbContext change-tracker
 series: "Entity Framework"
 ---

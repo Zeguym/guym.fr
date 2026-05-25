@@ -1,5 +1,6 @@
 ---
 title: 'Pile et Tas en .NET : Comprendre la gestion mémoire des types valeur et référence'
+description: "Pile et tas en .NET : où vivent types valeur et référence, copie de valeur contre copie de référence, structs, appels de méthode et idées reçues."
 tags: dotnet basics stack heap
 ---
 

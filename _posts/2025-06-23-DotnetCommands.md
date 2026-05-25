@@ -1,5 +1,6 @@
 ---
 title: Commandes utiles pour la gestion des packages dans un projet dotnet
+description: "Commandes dotnet pour gérer les packages NuGet : lister, auditer les vulnérabilités, tracer les dépendances, mettre à jour et centraliser les versions."
 tags: dotnet dotnettools nuget 
 ---
 

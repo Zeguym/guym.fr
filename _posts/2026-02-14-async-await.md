@@ -1,5 +1,6 @@
 ---
 title: "Async/Await en C# : comprendre la programmation asynchrone"
+description: "Async/await en C# : Task, Task<T> et ValueTask, machine à états, ConfigureAwait, deadlocks avec .Result et pièges comme async void expliqués pas à pas."
 tags: dotnet basics async await csharp
 ---
 

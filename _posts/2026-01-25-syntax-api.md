@@ -1,5 +1,6 @@
 ---
 title: "Syntax API Roslyn pour les Source Generators (Code Gen)"
+description: "Syntax API Roslyn : parcourir l’arbre de syntaxe C#, utiliser ISyntaxReceiver, passer aux symboles et filtrer les nœuds dans un Source Generator."
 tags: dotnet roslyn source-generators syntax-api
 series: "Source Generators en .NET"
 ---

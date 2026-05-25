@@ -1,5 +1,6 @@
 ---
 title: "Égalité et Identité en .NET : Comprendre les différences pour les types valeur et référence"
+description: "Égalité et identité en .NET : Equals et GetHashCode, comportement dans Dictionary et HashSet, structs, value objects, IEqualityComparer et pièges."
 tags: dotnet basics equality identity
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Manipuler le Change Tracker (EF Core)
+description: "EF Core Attach, Update ou Entry : quand rattacher une entité au DbContext, mises à jour partielles depuis un DTO, ExecuteUpdate et conflits de clés suivies."
 tags: dotnet efcore change-tracker 
 series: "Entity Framework"
 ---

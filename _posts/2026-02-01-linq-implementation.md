@@ -1,5 +1,6 @@
 ---
 title: "Comprendre LINQ par l'implémentation : recoder les opérateurs"
+description: "LINQ par l’implémentation : recoder Where, Select, SelectMany, OrderBy, GroupBy et d’autres opérateurs avec yield return pour comprendre leur fonctionnement."
 tags: dotnet basics linq csharp implementation
 series: "Linq"
 ---

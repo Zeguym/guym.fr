@@ -1,5 +1,6 @@
 ---
 title: Nerd terminal
+description: "Terminal PowerShell sous Windows : Nerd Font, prompt personnalisé avec Oh My Posh, historique amélioré avec PSReadLine, Terminal-Icons et zoxide."
 tags: terminal powershell ohmyposh psreadline windows-terminal
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mocking avec NSubstitute"
+description: "NSubstitute en .NET : créer des doublures avec Substitute.For, Returns et Arg.Is, vérifier et capturer les appels, et savoir quand préférer un fake au mock."
 tags: dotnet test nsubstitute mocking xunit
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mesurer avec BenchmarkDotNet"
+description: "BenchmarkDotNet : mesurer temps et allocations de code .NET de façon fiable, comparer des runtimes et éviter les pièges du mode Debug, du code mort et du setup."
 tags: dotnet test performance benchmarkdotnet
 ---
 

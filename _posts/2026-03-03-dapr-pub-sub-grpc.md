@@ -1,5 +1,6 @@
 ---
 title: "Dapr : Pub/Sub gRPC en .NET"
+description: "Dapr Pub/Sub en gRPC avec .NET : implémenter AppCallback, routage, dead letter topic, souscriptions en bulk et événements Protobuf pour le haut débit."
 tags: dotnet dapr microservices pub-sub grpc
 series: "Dapr pour les développeurs .NET"
 ---

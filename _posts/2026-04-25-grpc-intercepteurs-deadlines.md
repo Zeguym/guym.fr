@@ -1,5 +1,6 @@
 ---
 title: "gRPC : intercepteurs, deadlines et annulation"
+description: "gRPC en .NET : intercepteurs serveur et client pour logging, authentification et erreurs, propagation des deadlines, CancellationToken et retries par channel."
 tags: dotnet grpc api resilience retry
 series: "gRPC"
 ---

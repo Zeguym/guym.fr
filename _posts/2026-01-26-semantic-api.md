@@ -1,5 +1,6 @@
 ---
 title: "Semantic API Roslyn pour les Source Generators (Code Gen)"
+description: "Semantic API Roslyn : utiliser SemanticModel et ISymbol pour lire types, propriétés et attributs résolus dans un Source Generator incrémental."
 tags: dotnet roslyn source-generators semantic-api
 series: "Source Generators en .NET"
 ---
